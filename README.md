@@ -46,6 +46,7 @@ cd dist && http-server
 - [Babel](https://babeljs.io/)
 - [Sass](https://sass-lang.com/)
 - [PostCSS](https://postcss.org/)
+- [PixiJS](https://pixijs.com/)
 
 ## Dependencies
 
@@ -89,8 +90,7 @@ cd dist && http-server
 - [`eslint-import-resolver-webpack`](https://github.com/benmosher/eslint-plugin-import/tree/master/resolvers/webpack) - Throw exceptions for import/export in webpack
 
 ## Author
-
-- [Tania Rascia](https://www.taniarascia.com)
+- [WebPack BoilerPlate by Tania Rascia](https://www.taniarascia.com)
 
 ## License
 

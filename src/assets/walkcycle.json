@@ -1,0 +1,79 @@
+{"frames": {
+
+"walk-01.png":
+{
+	"frame": {"x":0,"y":0,"w":187,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":324},
+	"sourceSize": {"w":187,"h":324}
+},
+"walk-02.png":
+{
+	"frame": {"x":187,"y":0,"w":187,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":324},
+	"sourceSize": {"w":187,"h":324}
+},
+"walk-03.png":
+{
+	"frame": {"x":374,"y":0,"w":187,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":324},
+	"sourceSize": {"w":187,"h":324}
+},
+"walk-04.png":
+{
+	"frame": {"x":561,"y":0,"w":187,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":324},
+	"sourceSize": {"w":187,"h":324}
+},
+"walk-05.png":
+{
+	"frame": {"x":748,"y":0,"w":187,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":324},
+	"sourceSize": {"w":187,"h":324}
+},
+"walk-06.png":
+{
+	"frame": {"x":935,"y":0,"w":187,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":324},
+	"sourceSize": {"w":187,"h":324}
+},
+"walk-07.png":
+{
+	"frame": {"x":1122,"y":0,"w":187,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":324},
+	"sourceSize": {"w":187,"h":324}
+},
+"walk-08.png":
+{
+	"frame": {"x":1309,"y":0,"w":187,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":324},
+	"sourceSize": {"w":187,"h":324}
+}},
+"animations": {
+	"walk": ["walk-01.png","walk-02.png","walk-03.png","walk-04.png","walk-05.png","walk-06.png","walk-07.png","walk-08.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "walkcycle.png",
+	"format": "RGBA8888",
+	"size": {"w":1496,"h":324},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1acc25090f6584d1e10cfd9fb3e4ccf4:c753a96492a5e00edc86f5cacd23aabd:df69de70a6443d2b35ddf6b92838b0b5$"
+}
+}
